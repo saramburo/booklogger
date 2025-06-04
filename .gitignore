@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Entornos
+.env
+
+# Bases de datos locales
+*.db
+
+# Logs
+npm-debug.log*
